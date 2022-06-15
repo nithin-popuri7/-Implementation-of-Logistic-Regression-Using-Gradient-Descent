@@ -91,7 +91,10 @@ plt.show()
 ```
 
 ## Output:
-![logistic regression using gradient descent](sam.png)
+![img2](https://user-images.githubusercontent.com/94154780/173877885-a716caef-78fd-4bd9-acb9-1e0b8916be0e.png)
+![img1](https://user-images.githubusercontent.com/94154780/173877906-3fc924b4-1606-4f26-a046-fd2b83faea99.png)
+![img](https://user-images.githubusercontent.com/94154780/173877935-86bdbfc9-a39d-43a1-9e18-efd5d94fd2a0.png)
+
 
 
 ## Result:
